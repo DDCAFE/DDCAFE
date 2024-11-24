@@ -243,3 +243,11 @@ section{
         color: #000;
     }
 }
+
+
+
+.logo-img {
+    height: 40px; /* Adjust size as needed */
+    width: auto;
+    margin-right: 10px; /* Space between logo and text */
+}
